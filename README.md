@@ -8,7 +8,8 @@
 <br/>
 
 <h1 align="center">Hi 👋, I'm Âyèɦ ɱöʑąʄʄăŕļ</h1>
-
+<br/>
+<h2 align="center">I'm web developer</h2>
 <img align="right" margin-top="10px" alt="Coding" width="380" src="https://cdn.dribbble.com/users/2343459/screenshots/14393709/media/1f76b38bfee6b1282cf8a1ec2b773f9c.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayansingh155&label=Profile%20views&color=0e75b6&style=flat" alt="nayansingh155" /> </p>
