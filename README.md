@@ -60,8 +60,3 @@ This site was built using [GitHub Pages](https://pages.github.com/)
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayansingh155" alt="nayansingh155" /></a> </p> -->
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NayanSingh155&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
