@@ -4,7 +4,7 @@
 
 
 
-![cat.gif](../cat.gif)
+![cat.gif](./cat.gif)
 
 
             
