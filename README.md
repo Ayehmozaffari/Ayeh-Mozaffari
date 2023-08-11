@@ -3,7 +3,7 @@
 > my bio:)
 
 
-![Uploading cat.gif…]()
+![cat.gif]()
 
             
 
