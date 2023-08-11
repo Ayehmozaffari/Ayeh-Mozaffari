@@ -5,7 +5,7 @@
 
 
             
-![logo](cat.gif)
+![cat.gif](cat.gif)
 <br/>
 
 <h1 align="center">Hi 👋, I'm Âyèɦ ɱöʑąʄʄăŕļ</h1>
