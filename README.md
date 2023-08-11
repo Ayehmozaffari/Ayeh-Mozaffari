@@ -22,17 +22,16 @@
 
 - 📫 How to reach me **ayehmozaffari1402@gmail.com**<br/>
 
-- ⚡ Fun fact **I think writing poem is the fun fact for me.**<br/>
 
-- 📄 Know about my experiences Here is my Resume-
-[Nanhi_Resume](https://drive.google.com/file/d/1VslcL6pTKgT9i4a2lnxKHDQLGN4pza_b/view?usp=sharing)
+
+
 
 <br/>
 <hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nayan-singh-026a07232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nayan-singh-026a07232/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/nanhi_choudhary?igshid=ymmymta2m2y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/nanhi_choudhary?igshid=ymmymta2m2y=" height="30" width="40" /></a>
+
+<a href="https://instagram.com/https://instagram.com/nanhi_choudhary?igshid=ymmymta2m2y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/Ayehmozaffari?igshid=ymmymta2m2y=" height="30" width="40" /></a>
 </p>
 
 
@@ -42,7 +41,7 @@
 
 
 
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)](https://github.com/NayanSingh155/NayanSingh155/blob/main/README.md)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)](https://github.com/NayanSingh155/NayanSingh155/blob/main/README.md)
 
 ---
 
