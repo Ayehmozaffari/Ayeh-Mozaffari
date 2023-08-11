@@ -3,4 +3,4 @@
 
 
 
-      >>🌱 I’m currently learning JavaScript & UI/UX                ![pic.gif,width="30px"](pic.gif) width="30px"
+      >>🌱 I’m currently learning JavaScript & UI/UX                ![🌱 I’m currently learning JavaScript & UI/UX   ,pic.gif,](pic.gif) width="30px"
