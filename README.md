@@ -17,7 +17,6 @@ This site was built using [GitHub Pages](https://pages.github.com/)
 
 
 
-
 - 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **React, mern, javascript, html, css**
