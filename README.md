@@ -3,4 +3,5 @@
 
 
 
-      >>🌱 I’m currently learning JavaScript & UI/UX                ![🌱 I’m currently learning JavaScript & UI/UX   ,pic.gif,](pic.gif) width="30px"
+             ![pic.gif](pic.gif) width="30px"
+This site was built using [GitHub Pages](https://pages.github.com/).
