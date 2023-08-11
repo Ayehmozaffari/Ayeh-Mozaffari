@@ -2,7 +2,7 @@
 # Ayeh-Mozaffari
 > my bio:)
 
-![Uploading cat.gif…]()
+![cat.gif…]()
 
 
 
