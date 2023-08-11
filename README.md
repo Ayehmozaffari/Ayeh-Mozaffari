@@ -2,4 +2,4 @@
 > my bio:)
 
 
-![Uploading pic.gif…](pic.gif)
+![Uploading pic.gif…]()
