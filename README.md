@@ -2,4 +2,4 @@
 > my bio:)
 
 
-![pic.gif](pic.gif)
+![pic.gif](pic.gif) width="30px"
