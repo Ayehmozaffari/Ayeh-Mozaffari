@@ -7,7 +7,7 @@
 🌱🍃I'm currently learning ui/ux and javascript 
 
 ![Uploading tumblr_o6croq0uie1v2y42bo1_500 (1).gif…]()
-
+![Uploading tumblr_o6croq0uie1v2y42bo1_500 (1).gif…]()
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayehmozaffari) 
