@@ -4,7 +4,7 @@
 # 💫 About Me: 
 # I'm Ayehmozaffari 🧝
 🌱🍃I'm currently learning ui/ux and javascript 
-![Uploading tumblr_o6croq0uie1v2y42bo1_500 (1).gif…]()
+
 
 
 ## 🌐 Socials:
