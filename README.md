@@ -2,7 +2,6 @@
 # 💫 About Me: 
 # I'm Ayehmozaffari 🧝
 🌱🍃I'm currently learning ui/ux and javascript 
-<img src="images.mp4" alt="Girl in a jacket" width="500" height="600">
 
 
 
