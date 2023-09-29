@@ -2,8 +2,9 @@
 <img src="cat.gif" alt="Girl in a jacket" width="700" height="700" style="text-align:center;">
 
 # 💫 About Me:
-<h1 align="center">ɧi🧚🏻‍♀️,I'm Ąýĕɧ Môžăffăɹɪ</h1>                              
-- 🌱 I’m currently learning **javascript** and **UI/UX**                                              <p align="right"><img src="girl-(2).gif" alt="Girl in a jacket" width="400" height="200" > </p>
+<h1 align="center">ɧi🧚🏻‍♀️,I'm Ąýĕɧ Môžăffăɹɪ</h1>    
+<img align="right" width= "550" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+- 🌱 I’m currently learning **javascript** and **UI/UX**                                           
 
 
 - 💬 Ask me about **Html, CSS, js**
