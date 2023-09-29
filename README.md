@@ -1,7 +1,5 @@
-
-![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
-
-# 💫 About Me:
+![Uploading 202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif…]()
+# 💫About Me:
 <h1 align="center">ɧi🧚🏻‍♀️,I'm Ąýĕɧ Môžăffăɹɪ</h1> 
 <img align="right" width= "500" src="girl-(2).gif">
 - 🌱 I’m currently learning **javascript** and **UI/UX**                                           
