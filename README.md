@@ -2,11 +2,10 @@
 <img src="cat.gif" alt="Girl in a jacket" width="700" height="700" style="text-align:center;">
 
 # 💫 About Me:
-                                                                                              # I'm Ayehmozaffari 🧝
 
 
 ### 🌱🍃I'm currently learning ui/ux and javascript  
-
+<h1 style="text-align:center;">maeo</h1>
 <img src="girl-(2).gif" alt="Girl in a jacket" width="400" height="200" style="text-align:center;">
 
 ## 🌐 Socials:
