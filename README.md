@@ -3,7 +3,7 @@
 
 
 
-#  💫 About Me:
+# 💫 About Me:
 # I'm Ayehmozaffari 🧝
 🌱🍃I'm currently learning ui/ux and javascript 
 ## 🌐 Socials:
