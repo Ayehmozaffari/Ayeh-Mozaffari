@@ -2,7 +2,7 @@
 <img src="cat.gif" alt="Girl in a jacket" width="700" height="700" style="text-align:center;">
 
 # 💫 About Me:
-# I'm Ayehmozaffari 🧝
+                                                                                              # I'm Ayehmozaffari 🧝
 
 
 ### 🌱🍃I'm currently learning ui/ux and javascript  
