@@ -4,7 +4,7 @@
 # 💫 About Me:
 
 ### 🌱🍃I'm currently learning ui/ux and javascript  
-<h1 style="text-align:center;">maeo</h1>
+<h1 style="text-align:center;margin-left:200;">maeo</h1>
 <img src="girl-(2).gif" alt="Girl in a jacket" width="400" height="200" style="text-align:center;">
 
 ## 🌐 Socials:
