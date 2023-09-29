@@ -7,13 +7,13 @@
 - 🌱 I’m currently learning **javascript** and **UI/UX**
 
 - 💬 Ask me about **Html, CSS, js**
+                                                                                                        <p align="right"><img src="girl-(2).gif" alt="Girl in a jacket" width="400" height="200" > </p>
 
 - 📫 How to reach me **ayehmozaffari1402@gmail.com**
 
 - ⚡ Fun fact **World & equality☕**
 
 
-<p align="right"><img src="girl-(2).gif" alt="Girl in a jacket" width="400" height="200" > </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayehmozaffari) 
