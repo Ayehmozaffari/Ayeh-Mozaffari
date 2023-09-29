@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 <h1 align="center">ɧi🧚🏻‍♀️,I'm Ąýĕɧ Môžăffăɹɪ</h1>    
-<img align="right" width= "550" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img align="right" width= "550" src="girl-(2).gif">
 - 🌱 I’m currently learning **javascript** and **UI/UX**                                           
 
 
