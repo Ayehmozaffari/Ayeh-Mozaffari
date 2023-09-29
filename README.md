@@ -1,12 +1,4 @@
-<video width="320" height="240" controls>
-  <source src="cat.gif " type="video/mp4">
-  <source src="cat.ogg" type="video/ogg">
-  Your browser does not support the video tag.
-</video>
-
-</body>
-
-
+<img src="cat.gif" alt="Girl in a jacket" width="500" height="600">
 
 # 💫 About Me: 
 # I'm Ayehmozaffari 🧝
