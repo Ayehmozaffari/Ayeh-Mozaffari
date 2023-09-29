@@ -13,7 +13,7 @@
 - ⚡ Fun fact **World & equality☕**
 
 
-<p align="left"><img src="girl-(2).gif" alt="Girl in a jacket" width="400" height="200" > </p>
+<p align="right"><img src="girl-(2).gif" alt="Girl in a jacket" width="400" height="200" > </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayehmozaffari) 
