@@ -1,5 +1,6 @@
-<h1>maeo</h1>
-<img src="cat.gif" alt="Girl in a jacket" width="700" height="700" style="text-align:center;">
+
+ertyyu
+
 
 # 💫 About Me:
 <h1 align="center">ɧi🧚🏻‍♀️,I'm Ąýĕɧ Môžăffăɹɪ</h1> 
