@@ -9,10 +9,8 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayehmozaffari) 
 
- 
-![Uploading tumblr_o6croq0uie1v2y42bo1_500 (1).gif…]()
 
-
+<img src="cat.gif" alt="Girl in a jacket" width="700" height="700" style="text-align:center;">
 
 
 # 💻 Tech Stack:
