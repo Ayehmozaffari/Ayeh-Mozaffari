@@ -4,15 +4,15 @@
 # 💫 About Me:
 <h1 align="center">ɧi🧚🏻‍♀️,I'm Ąýĕɧ Môžăffăɹɪ</h1>
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **javascript** and **UI/UX**
 
 - 💬 Ask me about **Html, CSS, js**
 
-- 📫 How to reach me **farhad.13ahmadi.83@gmail.com**
+- 📫 How to reach me **ayehmozaffari1402@gmail.com**
 
 - ⚡ Fun fact **World & equality☕**
 
-<img src="girl-(2).gif" alt="Girl in a jacket" width="400" height="200" style="text-align:center;">
+<img src="girl-(2).gif" alt="Girl in a jacket" width="400" height="200" align:center;>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayehmozaffari) 
