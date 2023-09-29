@@ -2,7 +2,7 @@
 <img src="cat.gif" alt="Girl in a jacket" width="700" height="700" style="text-align:center;">
 
 # 💫 About Me:
-<h1 align="center">ɧi🧚🏻‍♀️,I'm Ąýĕɧ Môžăffăɹɪ</h1>    
+<h1 align="center">ɧi🧚🏻‍♀️,I'm Ąýĕɧ Môžăffăɹɪ</h1> 
 <img align="right" width= "500" src="girl-(2).gif">
 - 🌱 I’m currently learning **javascript** and **UI/UX**                                           
 
