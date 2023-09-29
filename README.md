@@ -1,4 +1,4 @@
-<img src="cat.gif" alt="Girl in a jacket" width="300" height="300">
+<img src="cat.gif" alt="Girl in a jacket" width="300" height="300"style="text-align:center;">
   
 
 
