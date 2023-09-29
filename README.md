@@ -1,4 +1,4 @@
-<img src="cat.gif" alt="Girl in a jacket" width="500" height="600">
+<img src="cat.gif" alt="Girl in a jacket" width="300" height="600">
 
 # 💫 About Me: 
 # I'm Ayehmozaffari 🧝
