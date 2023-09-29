@@ -1,6 +1,5 @@
 
-ertyyu
-
+![Uploading animesher.com_beautiful-anime-girl-gif-1874716.gif…]()
 
 # 💫 About Me:
 <h1 align="center">ɧi🧚🏻‍♀️,I'm Ąýĕɧ Môžăffăɹɪ</h1> 
