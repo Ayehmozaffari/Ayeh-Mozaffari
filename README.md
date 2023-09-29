@@ -5,12 +5,13 @@
 
 # 💫 About Me:
 # I'm Ayehmozaffari 🧝
-🌱🍃I'm currently learning ui/ux and javascript 
+🌱🍃I'm currently learning ui/ux and javascript  
+
+<img src="cat.gif" alt="Girl in a jacket" width="700" height="700" style="text-align:center;">
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayehmozaffari) 
 
 
-<img src="cat.gif" alt="Girl in a jacket" width="700" height="700" style="text-align:center;">
 
 
 # 💻 Tech Stack:
