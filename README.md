@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 <h1 align="center">ɧi🧚🏻‍♀️,I'm Ąýĕɧ Môžăffăɹɪ</h1>    
-<img align="right" width= "550" src="girl-(2).gif">
+<img align="right" width= "500" src="girl-(2).gif">
 - 🌱 I’m currently learning **javascript** and **UI/UX**                                           
 
 
