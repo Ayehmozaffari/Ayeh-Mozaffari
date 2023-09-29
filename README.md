@@ -2,9 +2,16 @@
 <img src="cat.gif" alt="Girl in a jacket" width="700" height="700" style="text-align:center;">
 
 # 💫 About Me:
+<h1 align="center">ɧi🧚🏻‍♀️,I'm Ąýĕɧ Môžăffăɹɪ</h1>
 
-### 🌱🍃I'm currently learning ui/ux and javascript  
-<h1 style="text-align:center;margin-left:200;">maeo</h1>
+- 🌱 I’m currently learning **javascript**
+
+- 💬 Ask me about **Html, CSS, js**
+
+- 📫 How to reach me **farhad.13ahmadi.83@gmail.com**
+
+- ⚡ Fun fact **World & equality☕**
+
 <img src="girl-(2).gif" alt="Girl in a jacket" width="400" height="200" style="text-align:center;">
 
 ## 🌐 Socials:
