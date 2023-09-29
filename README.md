@@ -2,9 +2,12 @@
 
 # 💫 About Me:
 # I'm Ayehmozaffari 🧝
+<br>
+<br>
+<br>
 ### 🌱🍃I'm currently learning ui/ux and javascript  
 
-<img src="girl-(2).gif" alt="Girl in a jacket" width="700" height="700" style="text-align:center;">
+<img src="girl-(2).gif" alt="Girl in a jacket" width="600" height="600" style="text-align:center;">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayehmozaffari) 
