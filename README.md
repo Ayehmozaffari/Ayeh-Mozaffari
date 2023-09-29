@@ -1,9 +1,9 @@
 <img src="cat.gif" alt="Girl in a jacket" width="300" height="300">
-# 💫 About Me: 
+#  
 # I'm Ayehmozaffari 🧝
 🌱🍃I'm currently learning ui/ux and javascript 
 
-
+#  💫 About Me:
 
 
 ## 🌐 Socials:
