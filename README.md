@@ -2,12 +2,12 @@
 <img src="cat.gif" alt="Girl in a jacket" width="700" height="700" style="text-align:center;">
 
 # 💫 About Me:
-<h1 align="center">ɧi🧚🏻‍♀️,I'm Ąýĕɧ Môžăffăɹɪ</h1>
+<h1 align="center">ɧi🧚🏻‍♀️,I'm Ąýĕɧ Môžăffăɹɪ</h1>                              <p align="right"><img src="girl-(2).gif" alt="Girl in a jacket" width="400" height="200" > </p>
 
 - 🌱 I’m currently learning **javascript** and **UI/UX**
 
 - 💬 Ask me about **Html, CSS, js**
-                                                                                                        <p align="right"><img src="girl-(2).gif" alt="Girl in a jacket" width="400" height="200" > </p>
+                                                                                                      
 
 - 📫 How to reach me **ayehmozaffari1402@gmail.com**
 
