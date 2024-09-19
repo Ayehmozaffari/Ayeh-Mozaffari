@@ -38,8 +38,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ayehmozaffari&limit=5&theme=matrix&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400;"/>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --
 
