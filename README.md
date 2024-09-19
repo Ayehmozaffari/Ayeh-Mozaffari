@@ -2,8 +2,8 @@
 
  <h1 align="center">💫About Me:</h1> 
 
-<h1 align="center">ɧi🧚🏻‍♀️,I'm Ąýĕɧ Môžăffăɹɪ</h1> 
-<img align="right" width= "500" src="girl-(2).gif">
+<h1 align="center">ɧi,I'm yellow_h4t</h1> 
+<img align="right" width= "500" src="https://www.entefy.com/wp-content/uploads/2022/03/38193fbdb2c4598555f5ea54c04abbc4.gif">
 
 - 🌱 I’m currently learning **React.js** and **UI/UX**                                           
 
