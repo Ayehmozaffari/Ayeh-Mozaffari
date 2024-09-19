@@ -5,7 +5,7 @@
 <h1 align="center">ɧi🧚🏻‍♀️,I'm Ąýĕɧ Môžăffăɹɪ</h1> 
 <img align="right" width= "500" src="girl-(2).gif">
 
-- 🌱 I’m currently learning **javascript** and **UI/UX**                                           
+- 🌱 I’m currently learning **React.js** and **UI/UX**                                           
 
 
 - 💬 Ask me about **Html, CSS, js**
