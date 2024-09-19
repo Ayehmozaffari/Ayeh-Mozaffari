@@ -1,4 +1,4 @@
-<img align="center" width= "1000" height="300" src="4c5b67093fdc45ae36e08ca67d9c59fa.gif">
+<img align="center" width= "1000" height="300" src="https://pin.it/7LDRltQLa">
 
  <h1 align="center">💫About Me:</h1> 
 
