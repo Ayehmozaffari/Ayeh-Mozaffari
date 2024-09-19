@@ -1,4 +1,4 @@
-<img align="center" width= "1000" height="800" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-developer.gif">
+<img align="center" width= "1000" height="500" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-developer.gif">
 
  <h1 align="center">💫About Me:</h1> 
 
